@@ -143,4 +143,4 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 
 ## error.html (400, 403, 404, 500, 502, 503):
 - [ ] Need a clever set of error pages complete with cute/cool images to explain what went wrong.
-- [ ] See great examples here: https://github.com/HttpErrorPages/HttpErrorPages
+- [ ] See great examples here: https://github.com/404  &&  https://github.com/HttpErrorPages/HttpErrorPages
