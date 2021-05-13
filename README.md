@@ -5,6 +5,9 @@ I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sec
 This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
 Project is to design seven pages as defined below.
 
+**Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
+
+
 
 
 ## navigation:
@@ -65,7 +68,6 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 - [ ] Please don't use copyrighted images. Free/open/pubic-domain images please. 
 - [ ] Will keep contest open for at least 40 hours. (June 23rd)
 - [ ] Font-Awesome is cool to use, but not required.
-**Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
 
 
 ## index.html:
