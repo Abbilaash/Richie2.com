@@ -3,15 +3,15 @@ Rebuilding/rebranding personal website: http://RichieBartlett.com/
 
 I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sections.  
 This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
-Project is to design seven pages as defined below.
+Project is to design 14 pages as defined below.
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
 
 
 
 
-## navigation:
-Header Menu: 
+## NAVIGATION
+### Header Menu: 
 - About
 - Work
 - Play
@@ -19,7 +19,7 @@ Header Menu:
 - Tips [for donations and work payments via Crypto or PayPal]
 
 
-Footer sections
+### Footer sections
 - About
   - work
   - play
@@ -37,7 +37,42 @@ Footer sections
   - ToS
   - Cookies
 
-
+## SITE FOLDER STRUCTURE
+```
+.
++-- assets
+|   +-- css
+|   |   +-- style.prod.css
+|   |   +-- dev1.css
+|   |   +-- images.repo.css
+|   +-- img
+|   |   +-- photos.jgp
+|   |   +-- photos.gif
+|   |   +-- photos.png
+|   |   +-- photos.svg
+|   |   +-- photos.heic
+|   +-- js
+|       +-- main.prod.js
+|       +-- dev.framework.js
+|       +-- custom.js
++-- 400.html
++-- 403.html
++-- 404.html
++-- 500.html
++-- 502.html
++-- 503.html
++-- index.html
++-- _config.yml
++-- about.html
++-- error.html
++-- LEGAL.html
++-- play.html
++-- projects.html
++-- robots.txt
++-- sitemap.xml
++-- tips.html
++-- work.html
+```
 
 ## NOTES:  
 
@@ -55,7 +90,7 @@ Footer sections
 - [ ] Please don't use copyrighted images. Free/open/pubic-domain images please. 
 
 ``` 
-I will upload my personal images to GitHub for use. 
+I will upload my personal images to GitHub for design use. 
 See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 
 ```
@@ -101,3 +136,8 @@ This landing page will feature my photo covering a good portion of the viewable 
 
 ## LEGAL.html:
 : Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, etc) for users of my site.
+
+
+## error.html (400, 403, 404, 500, 502, 503):
+: Need a clever set of error pages complete with cute/cool images to explain what went wrong.
+See great examples here: https://github.com/HttpErrorPages/HttpErrorPages
