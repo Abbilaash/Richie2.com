@@ -5,6 +5,9 @@ I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sec
 This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
 Project is to design seven pages as defined below.
 
+
+
+## navigation:
 Header Menu: 
 - About
 - Work
@@ -31,7 +34,10 @@ Footer sections
   - Cookies
 
 
-## Should have clearly defined header & footer sections. 
+
+## NOTES:  
+
+- [ ] Should have clearly defined header & footer sections. 
 - [ ] A simple one-page layout is a good start. As long as the general layout is easy to replicate across pages.
 - [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. 
       (Good idea to design with JavaScript disabled in your browser.)
@@ -51,8 +57,6 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 
 ```
 
-
-## NOTES:  
 : Please push all files directly to GitHub via a pull-request against the "dev" branch. [GitHub Dev branch](https://github.com/lorezyra/Richie2.com/tree/Dev)
 
 : Try to keep the number of files to a minimum. 100 x 1k files is far slower than 1 x 100K file. 
