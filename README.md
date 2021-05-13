@@ -32,7 +32,8 @@ A simple one-page site is a good start. As long as the general layout is easy to
 
 
 NOTES:  
-** Final design can be a simple HTML page with embedded base64 images. (Zipped up file is acceptable.) 
+** Final design can be a simple HTML page with embedded base64 images. (Zipped up file is acceptable.)
+Please push all files directly to GitHub via a pull-request. #https://github.com/lorezyra/Richie2.com
 
 ** Try to keep the number of files to a minimum. 100 x 1k files is slower than 1 x 100K file. 
 
