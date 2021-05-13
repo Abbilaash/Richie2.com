@@ -28,6 +28,7 @@ Footer sections
   - Work
 - Social (use icons at least 48px x 48px)
   - GitHub
+  - LinkedIn
   - Facebook
   - Twitter
   - Reddit
