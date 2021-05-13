@@ -74,28 +74,28 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 This landing page will feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Should only animate if user changes mouse selection between either side of the screen (work / play).
 
 
-## Tips Page:
+## tips.html:
 : Should model this page: https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html
 : Will share the Bitcoin and Ethereum addresses later. I won't be using the old addresses for my personal site.
 
 
-## About Page:
+## about.html:
 : Basic contents can be directly copied from the existing site @ RichieBartlett.com
 
 
-## Work Page:
+## work.html:
 : This page will represent my past CV/resume of sorts, but focused on highlighted companies and projects I've participated/lead.
 : This page's background should be a little brighter than the index page.
 
 
-## Play Page:
+## play.html:
 : Display time I have with my twin sons, playing lego, writting fun code projects, & 
 : This page's background should be a little brighter than the index page. Perhaps shift the hue to a more subtle color?
 
 
-## Projects Page:
+## projects.html:
 : Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). I may also include LEGO projects.
 
 
-## LEGAL page:
+## LEGAL.html:
 : Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, etc) for users of my site.
