@@ -23,7 +23,7 @@ Footer should also have the following sections
 
 ## Should have clearly defined header & footer sections. 
 - [ ] A simple one-page layout is a good start. As long as the general layout is easy to replicate across pages.
-- [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript.   
+- [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. [Good idea to design with JavaScript disabled in your browser.]
 - [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about IE.) 
 - [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.   
 
