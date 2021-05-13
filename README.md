@@ -49,6 +49,7 @@ Project is to design 14 pages as defined below.
 |   +-- img
 |   |   +-- photos.gif
 |   |   +-- photos.heic
+|   |   +-- photos.ico
 |   |   +-- photos.jgp
 |   |   +-- photos.png
 |   |   +-- photos.svg
@@ -66,6 +67,7 @@ Project is to design 14 pages as defined below.
 +-- index.html
 +-- about.html
 +-- error.html
++-- favicon.ico
 +-- LEGAL.html
 +-- play.html
 +-- projects.html
@@ -108,6 +110,7 @@ I can upload more photos upon designer request.
 - [ ] Please keep the number of download files to a minimum. 100 x 1k files is far slower than a single 100K file. 
 - [ ] I _like_ this site design: https://linusbohman.se/ . However, I'm open to other interesting designs.
 - [ ] Will keep contest open for at least 40 hours. (~ May 28th)
+- [ ] favicon.ico should use my face as the logo. Use a PNG format file with high resolution.
 
 
 ## index.html:
@@ -149,3 +152,70 @@ I can upload more photos upon designer request.
 ## error.html (400, 403, 404, 500, 502, 503):
 - [ ] Need a clever set of error pages complete with cute/cool images to explain what went wrong.
 - [ ] See great examples here: https://github.com/404  &&  https://github.com/HttpErrorPages/HttpErrorPages
+
+
+
+
+## Expected Meta data in the header:
+```html
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <META charset="UTF-8">
+    <META name="Content-Language" content="english" />
+    <META http-equiv="imagetoolbar" content="no" />
+    <META http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <META http-equiv="content-script-type" content="text/javascript" />
+    <META http-equiv="content-style-type" content="text/css" />
+    <META http-equiv="CACHE-CONTROL" content="Public" />
+    <META http-equiv="PRAGMA" content="Cache-Control" />
+    <!-- META http-equiv="EXPIRES" content="Sun, 01 Jul 2012 00:00:01 GMT" / -->
+    <META name="DC.creator" content="Richie Bartlett Jr. - http://RichieBartlett.com/" />
+    <META name="DC.language" content="en" />
+    <META name="copyright" content="Copyright 2021" />
+    <META name="keywords"
+        content="Richie Bartlett, Technologist, Entreprenuer, LEGO, AFOL, Solutions Architect, Cloud Architect, IT Manager" />
+    <META name="description"
+        content="Richie is an Entreprenuer, a Technologist and Cloud Architect. Loves how technologies brings the promise of an easier life, but enjoys the challenge to make it work. Work achievements, play, & fatherhood are the things that drive Richie.">
+    <META name="Author" content="Richie Bartlett, Jr." />
+    <META name="revisit-after" content="7 days" />
+    <META name="distribution" content="global" />
+    <META name="rating" content="general" />
+    <META name="robots" content="ALL" /> <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
+    <META name="GOOGLEBOT" content="FOLLOW" />
+
+    <LINK rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+    <LINK rel="shortcut icon" href="/favicon.ico" type="image/ico" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <LINK rel="icon" href="/favicon.ico" type="image/ico" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <LINK rel="apple-touch-icon" href="/favicon.ico" />
+    <LINK rel="apple-touch-icon-precomposed" href="/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <!-- used https://www.base64-image.de/ to create the Base64 images -->
+    <!-- QR code generator for URL/Bitcoin/etc https://www.qrcode-monkey.com/#bitcoin -->
+
+    <title>Richie Bartlett, Jr.</title>
+    <link rel="stylesheet" href="assets/css/main.prod.css" type="text/css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123456789-1">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-123456789-1');
+    </script>
+
+</head>
+
+<body>
+</body>
+</HTML>
+```
