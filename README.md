@@ -3,9 +3,9 @@ Rebuilding/rebranding personal website: http://RichieBartlett.com/
 
 I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sections.  
 This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
-Project is to design six pages as defined below.
+Project is to design seven pages as defined below.
 
-A menu in the header: 
+Header Menu: 
 - About
 - Work
 - Play
@@ -13,13 +13,19 @@ A menu in the header:
 - Tips [for donations and work payments via Crypto or PayPal]
 
 
-Footer should include social media links to GitHub, FB, Twitter, & Reddit.
+Footer should include social media links to .
 Footer should also have the following sections
 - About
   - work
   - play
 - Projects
-- Social
+  - Personal
+  - Work
+- Social (use icons at least 48px x 48px)
+  - GitHub
+  - FB
+  - Twitter
+  - Reddit
 - Legal
 
 
@@ -28,7 +34,8 @@ Footer should also have the following sections
 - [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. 
       [Good idea to design with JavaScript disabled in your browser.]
 - [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about Microsoft IE/Edge.) 
-- [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.   
+- [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.
+- [ ] Unless user scrolls down, footer can be hidden.
 
 I _like_ this site design: https://linusbohman.se/
 
