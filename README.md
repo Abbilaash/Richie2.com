@@ -1,8 +1,8 @@
-# Richie2.com
+# RichieBartlett.com
 2021 version of RichieBartlett.com
 
 
-## 2021 Design specs
+-- 2021 Design specs
 Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
 
 I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sections.  
