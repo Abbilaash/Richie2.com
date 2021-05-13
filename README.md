@@ -28,7 +28,7 @@ Footer should also have the following sections
 - [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.   
 
 I _like_ this site design: https://linusbohman.se/
-__I will upload my personal images to GitHub for use. See /assets/img/ folder.＿＿
+__I will upload my personal images to GitHub for use. See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.＿＿
 
 
 ## NOTES:  
