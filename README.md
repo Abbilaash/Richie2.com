@@ -108,36 +108,39 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 
 
 ## index.html:
-This landing page will feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Should only animate if user changes mouse selection between either side of the screen (work / play).
+- [ ] This landing page will feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. 
+- [ ] Should only animate if user changes mouse selection between either side of the screen (work / play).
 
 
 ## tips.html:
-: Should model this page: [Money page](https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html)
-: Will share the Bitcoin and Ethereum addresses later. I won't be using the old addresses for my personal site.
+- [ ] Should model this page: [Money page](https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html)
+- [ ] Will share the Bitcoin and Ethereum addresses later. I won't be using the old addresses for my personal site.
 
 
 ## about.html:
-: Basic contents can be directly copied from the existing site @ RichieBartlett.com
+- [ ] Basic contents can be directly copied from the existing site @ RichieBartlett.com
+- [ ] There should be a subtle section to sign-up for a newsletter. Users can volunteer their email.
 
 
 ## work.html:
-: This page will represent my professional past... a CV/resume of sorts, but focused on highlighted companies and projects I've participated/lead.
-: This page's background should be a little brighter than the index page.
+- [ ] This page will represent my professional past... a CV/resume of sorts, but focused on highlighted companies and projects I've participated/lead.
+- [ ] This page's background should be a little brighter than the index page.
+- [ ] Add section for "We should work together!" with a link to open an email and the basic "mailto:" href prefilled.
 
 
 ## play.html:
-: Display time I have with my twin sons, playing lego, writting fun code projects, & online games (e.g. World of Warcraft).
-: This page's background should be a little brighter than the index page. Perhaps shift the hue to a more subtle color?
+- [ ] Display time I have with my twin sons, playing lego, writting fun code projects, & online games (e.g. World of Warcraft).
+- [ ] Perhaps shift background hue to a slightly different, but subtle color?
 
 
 ## projects.html:
-: Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). I may also include LEGO projects.
+- [ ] Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). I may also include LEGO projects.
 
 
 ## LEGAL.html:
-: Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, etc) for users of my site.
+- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, etc) for users of my site.
 
 
 ## error.html (400, 403, 404, 500, 502, 503):
-: Need a clever set of error pages complete with cute/cool images to explain what went wrong.
-See great examples here: https://github.com/HttpErrorPages/HttpErrorPages
+- [ ] Need a clever set of error pages complete with cute/cool images to explain what went wrong.
+- [ ] See great examples here: https://github.com/HttpErrorPages/HttpErrorPages
