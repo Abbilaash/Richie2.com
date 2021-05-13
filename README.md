@@ -27,7 +27,7 @@ Footer should also have the following sections
 - [ ] A simple one-page layout is a good start. As long as the general layout is easy to replicate across pages.
 - [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. 
       [Good idea to design with JavaScript disabled in your browser.]
-- [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about IE/Edge.) 
+- [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about Microsoft IE/Edge.) 
 - [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.   
 
 I _like_ this site design: https://linusbohman.se/
@@ -52,10 +52,36 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 
 : Will keep contest open for at least 40 hours. (June 23rd)
 
+: Font-Awesome is cool to use, but not required.
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
 
 
+## index.html:
+This landing page will feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Should only animate if user changes mouse selection between either side of the screen (work / play).
+
 
 ## Tips Page:
 : Should model this page: https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html
+
+
+## About Page:
+: Basic contents can be directly copied from the existing site @ RichieBartlett.com
+
+
+## Work Page:
+: This page will represent my past CV/resume of sorts, but focused on highlighted companies and projects I've participated/lead.
+: This page's background should be a little brighter than the index page.
+
+
+## Play Page:
+: Display time I have with my twin sons, playing lego, writting fun code projects, & 
+: This page's background should be a little brighter than the index page. Perhaps shift the hue to a more subtle color?
+
+
+## Projects Page:
+: Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). I may also include LEGO projects.
+
+
+## LEGAL page:
+: Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, etc) for users of my site.
