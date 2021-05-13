@@ -87,7 +87,7 @@ This landing page will feature my photo covering a good portion of the viewable 
 
 
 ## play.html:
-: Display time I have with my twin sons, playing lego, writting fun code projects, & 
+: Display time I have with my twin sons, playing lego, writting fun code projects, & online games (e.g. World of Warcraft).
 : This page's background should be a little brighter than the index page. Perhaps shift the hue to a more subtle color?
 
 
