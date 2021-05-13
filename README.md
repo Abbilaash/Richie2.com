@@ -5,10 +5,9 @@ I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sec
 This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
 Project is to design six pages as defined below.
 
-A menu at the top for the following subsections: 
+A menu in the header: 
 - About
 - Work
-  - History [LinkedIn]
 - Play
 - Projects
 - Tips [for donations and work payments via Crypto or PayPal]
@@ -17,23 +16,31 @@ A menu at the top for the following subsections:
 Footer should include social media links to GitHub, FB, Twitter, & Reddit.
 Footer should also have the following sections
 - About
+  - work
+  - play
 - Projects
+- Social
 - Legal
 
 
 ## Should have clearly defined header & footer sections. 
 - [ ] A simple one-page layout is a good start. As long as the general layout is easy to replicate across pages.
-- [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. [Good idea to design with JavaScript disabled in your browser.]
+- [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. 
+      [Good idea to design with JavaScript disabled in your browser.]
 - [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about IE/Edge.) 
 - [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.   
 
 I _like_ this site design: https://linusbohman.se/
 
-__I will upload my personal images to GitHub for use. See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.＿＿
+``` 
+I will upload my personal images to GitHub for use. 
+See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
+
+```
 
 
 ## NOTES:  
-: Please push all files directly to GitHub via a pull-request against the "dev" branch. #https://github.com/lorezyra/Richie2.com
+: Please push all files directly to GitHub via a pull-request against the "dev" branch. [GitHub Dev branch](https://github.com/lorezyra/Richie2.com/tree/Dev)
 
 : Try to keep the number of files to a minimum. 100 x 1k files is slower than 1 x 100K file. 
 
@@ -48,3 +55,7 @@ __I will upload my personal images to GitHub for use. See https://github.com/lor
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
 
+
+
+## Tips Page:
+: Should model this page: https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html
