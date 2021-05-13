@@ -32,6 +32,7 @@ Project is to design 14 pages as defined below.
   - Facebook
   - Twitter
   - Reddit
+  - Pinterest
 - Legal
   - Privacy
   - ToS
