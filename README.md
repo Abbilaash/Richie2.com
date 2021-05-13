@@ -13,8 +13,7 @@ Header Menu:
 - Tips [for donations and work payments via Crypto or PayPal]
 
 
-Footer should include social media links to .
-Footer should also have the following sections
+Footer sections
 - About
   - work
   - play
@@ -23,21 +22,28 @@ Footer should also have the following sections
   - Work
 - Social (use icons at least 48px x 48px)
   - GitHub
-  - FB
+  - Facebook
   - Twitter
   - Reddit
 - Legal
+  - Privacy
+  - ToS
+  - Cookies
 
 
 ## Should have clearly defined header & footer sections. 
 - [ ] A simple one-page layout is a good start. As long as the general layout is easy to replicate across pages.
 - [ ] Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript. 
-      [Good idea to design with JavaScript disabled in your browser.]
+      (Good idea to design with JavaScript disabled in your browser.)
 - [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about Microsoft IE/Edge.) 
 - [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.
 - [ ] Unless user scrolls down, footer can be hidden.
-
-I _like_ this site design: https://linusbohman.se/
+- [ ] IF you use javascript, please consolidate all code into a single JS file.
+- [ ] Please consolidate all CSS into a single CSS file.
+- [ ] Each page should not load more than 5 files total. 
+      I will look at the network tab in Chrome to see what loads and how long it takes to load.
+- [ ] Each page must load within 1500 milliseconds. (Assumes hosted on a CDN like AWS CloudFront.)
+- [ ] I _like_ this site design: https://linusbohman.se/ . However, I'm open to other interesting designs.
 
 ``` 
 I will upload my personal images to GitHub for use. 
@@ -49,7 +55,7 @@ See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
 ## NOTES:  
 : Please push all files directly to GitHub via a pull-request against the "dev" branch. [GitHub Dev branch](https://github.com/lorezyra/Richie2.com/tree/Dev)
 
-: Try to keep the number of files to a minimum. 100 x 1k files is slower than 1 x 100K file. 
+: Try to keep the number of files to a minimum. 100 x 1k files is far slower than 1 x 100K file. 
 
 : All images MUST be embedded into a single CSS file. [base64](https://www.base64-image.de/) 
 
@@ -70,6 +76,7 @@ This landing page will feature my photo covering a good portion of the viewable 
 
 ## Tips Page:
 : Should model this page: https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html
+: Will share the Bitcoin and Ethereum addresses later. I won't be using the old addresses for my personal site.
 
 
 ## About Page:
