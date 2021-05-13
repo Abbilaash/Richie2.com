@@ -116,8 +116,8 @@ I can upload more photos upon designer request.
 ## index.html:
 - [ ] This landing page will feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. 
 - [ ] Should only animate if user changes mouse selection between either side of the screen (work / play).
-- [ ] There should be three main sections on the home page of the main body: Work, just-me, play
-      If user keeps the mouse in the center, then they see the inital photo. Otherwise moving to left or right will display a different photo for each.
+- [ ] There should be three main sections on the home page of the main body: Work, just-me, & Play... 
+If user keeps the mouse in the center, then they see the inital photo. Otherwise moving to left or right will display a different photo for each.
 
 
 ## tips.html:
