@@ -19,7 +19,7 @@ Project is to design 14 pages as defined below.
 - Tips [for donations and work payments via Crypto or PayPal]
 
 
-### Footer sections
+### Footer:
 - About
   - work
   - play
