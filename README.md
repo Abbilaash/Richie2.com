@@ -22,6 +22,7 @@ Footer should also have the following sections
 2) Projects
 3) Legal
 
+
 Should have clearly defined header & footer sections.  
 A simple one-page site is a good start. As long as the general layout is easy to replicate across pages.
 
@@ -29,6 +30,9 @@ A simple one-page site is a good start. As long as the general layout is easy to
 
 ++ Site should look the same on Safari, Chrome, and Firefox. (Don't care about IE.) 
 ++ The FB/GitHub/external-link buttons should target a new tab for loading the page.   
+
+I like this site design: https://linusbohman.se/
+I will upload my personal images to GitHub for use. See /assets/img/ folder.
 
 
 NOTES:  
