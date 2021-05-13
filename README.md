@@ -50,7 +50,7 @@ Project is to design 14 pages as defined below.
 |   |   +-- photos.gif
 |   |   +-- photos.heic
 |   |   +-- photos.ico
-|   |   +-- photos.jgp
+|   |   +-- photos.jpg
 |   |   +-- photos.png
 |   |   +-- photos.svg
 |   +-- js
