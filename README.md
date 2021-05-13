@@ -42,19 +42,20 @@ Project is to design 14 pages as defined below.
 .
 +-- assets
 |   +-- css
-|   |   +-- style.prod.css
 |   |   +-- dev1.css
 |   |   +-- images.repo.css
+|   |   +-- style.prod.css
 |   +-- img
-|   |   +-- photos.jgp
 |   |   +-- photos.gif
+|   |   +-- photos.heic
+|   |   +-- photos.jgp
 |   |   +-- photos.png
 |   |   +-- photos.svg
-|   |   +-- photos.heic
 |   +-- js
-|       +-- main.prod.js
 |       +-- dev.framework.js
+|       +-- main.prod.js
 |       +-- custom.js
++-- _config.yml
 +-- 400.html
 +-- 403.html
 +-- 404.html
@@ -62,7 +63,6 @@ Project is to design 14 pages as defined below.
 +-- 502.html
 +-- 503.html
 +-- index.html
-+-- _config.yml
 +-- about.html
 +-- error.html
 +-- LEGAL.html
