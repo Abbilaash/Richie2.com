@@ -1,8 +1,4 @@
-# RichieBartlett.com
-2021 version of RichieBartlett.com
-
-
--- 2021 Design specs
+# 2021 Design specs
 Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
 
 I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sections.  
@@ -23,7 +19,7 @@ Footer should also have the following sections
 3) Legal
 
 
-Should have clearly defined header & footer sections.  
+## Should have clearly defined header & footer sections. 
 A simple one-page site is a good start. As long as the general layout is easy to replicate across pages.
 
 <> Page should load without requiring JavaScript to display. Please use CSS features instead of JavaScript.   
@@ -35,7 +31,7 @@ I like this site design: https://linusbohman.se/
 I will upload my personal images to GitHub for use. See /assets/img/ folder.
 
 
-NOTES:  
+# NOTES:  
 ** Final design can be a simple HTML page with embedded base64 images. (Zipped up file is acceptable.)
 Please push all files directly to GitHub via a pull-request. #https://github.com/lorezyra/Richie2.com
 
