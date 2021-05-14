@@ -121,7 +121,7 @@ If user keeps the mouse in the center, then they see the inital photo. Otherwise
 
 
 ## tips.html:
-- [ ] Should model this page: [donate.html](https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html)
+- [ ] Should model this page: [https://Technocracy.Works/donate.html](https://raw.githubusercontent.com/lorezyra/www.technocracy.works/Production/donate.html)
 - [ ] Will share the Bitcoin and Ethereum addresses later. I won't be using the old addresses for my personal site.
 
 
