@@ -2,8 +2,8 @@
 Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
 
 I tend to favor dark backgrounds. (Is it possible to support both dark/light themes like the smartphones do? IF it's daytime then light, else use dark...) Needs to be contrasted with the paragraph sections.  
-This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
-Project is to design 14 pages as defined below. 
+This will be a multi-page site to direct users about me. Must be a *responsive design* that looks great on PC, iPad, and iPhones.
+Project is to design 14 pages as defined below. (Half of them are error pages with similar designs...)
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
 Contest is just for the overall design of the site and not the full completion of the project. Candidate should be confortable with Photoshop to make the cutouts/masks of my image to fit the site theme.
@@ -79,7 +79,7 @@ Contest is just for the overall design of the site and not the full completion o
 
 ## NOTES:  
 
-- [ ] A simple one-page layout is a good place to start. As long as the general layout is easy to replicate across pages.
+- [ ] A simple one-page layout is a good place to start. As long as the general layout is easy to replicate across similar pages.
 - [ ] Please push all files directly to GitHub via a pull-request against the "dev" branch. 
       [GitHub Dev branch](https://github.com/lorezyra/Richie2.com/tree/Dev)
 - [ ] Should have clearly defined header & footer sections. 
@@ -88,7 +88,7 @@ Contest is just for the overall design of the site and not the full completion o
       (Good idea to design with JavaScript disabled in your browser.)
 - [ ] Site should look the same on Safari, Chrome, and Firefox. (Don't care about Microsoft IE/Edge.) 
 - [ ] The FB/GitHub/external-link buttons should target a new tab for loading the page.
-- [ ] IF you use javascript, please consolidate all code into a single JS file.
+- [ ] IF you use javascript, please consolidate all code into a single JS file for production.
       The production version must be a single file whereas the dev version can be human readible/editable across many files.
 - [ ] Please consolidate all CSS into a single CSS file.
       The production version must be a single file whereas the dev version can be human readible/editable across many files.
@@ -134,7 +134,7 @@ Label: RichieBartlett.com
 ```
 Payment information
 URI: ethereum:0x28599c4E4a81A4B85755265B70E8E8cfe016Df24?label=RichieBartlett.com
-Address: bc1qcr5lfgez89e04xl89xayg34cmjeq4nz0wgl464
+Address: 0x28599c4E4a81A4B85755265B70E8E8cfe016Df24
 Label: RichieBartlett.com
 ```
 
