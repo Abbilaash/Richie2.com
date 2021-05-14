@@ -1,12 +1,12 @@
 # 2021 Design specs
 Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
 
-I tend to favor dark backgrounds. Needs to be contrasted with the soft-white sections.  
+I tend to favor dark backgrounds. (Is it possible to support both dark/light themes like the smartphones do? IF it's daytime then light, else use dark...) Needs to be contrasted with the paragraph sections.  
 This will be a multi-page site to direct users about me. Must be a responsive design that looks great on PC, iPad, and iPhones.
-Project is to design 14 pages as defined below.
+Project is to design 14 pages as defined below. 
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
-
+Contest is just for the overall design of the site and not the full completion of the project. Candidate should be confortable with Photoshop to make the cutouts/masks of my image to fit the site theme.
 
 
 
