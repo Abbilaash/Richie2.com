@@ -150,7 +150,7 @@ Label: RichieBartlett.com
 
 ## projects.html:
 - [ ] Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). 
-- [ ] I may also include LEGO projects from [Rebrickable](Rebrickable.com).
+- [ ] I may also include LEGO projects from [Rebrickable](https://rebrickable.com/users/LoreZyra/profile/).
 
 
 ## LEGAL.html:
