@@ -214,7 +214,7 @@ Label: RichieBartlett.com
 
     <title>Richie Bartlett, Jr.</title>
     <link rel="stylesheet" href="/assets/css/main.prod.css" type="text/css">
-    <script async src="/assets/js/main.prod.js"></script>
+    <script src="/assets/js/main.prod.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123456789-1"></script>
