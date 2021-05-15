@@ -9,6 +9,9 @@ Project is to design 14 pages as defined below. (Half of them are error pages wi
 Contest is just for the overall design of the site and not the full completion of the project. Candidate should be confortable with Adobe Photoshop/Illustrator to make the cutouts/masks of my image to fit the site theme.
 
 
+# https://dev.RichieBartlett.com
+I will host the development server on AWS. All you need to do is commit code to GitHub. AWS will automatically push all changes to this DEV branch directly to the web server. Once I approve your changes, they will be pushed to the production website.
+
 
 ## NAVIGATION
 ### Header Menu: 
