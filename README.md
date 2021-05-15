@@ -127,6 +127,7 @@ I can upload more photos upon designer request.
 - [ ] Should only animate if user changes mouse selection between either side of the screen (work / play).
 - [ ] There should be three main sections on the home page of the main body: Work, (my static photo), & Play... 
 If user keeps the mouse in the center, then they see the inital photo. Otherwise moving between work & play will display a different photo for each.
+- Example: https://linusbohman.se/ 
 
 
 ## tips.html:
