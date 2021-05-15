@@ -113,6 +113,15 @@ I can upload more photos upon designer request.
 - [ ] favicon.ico should use my face as the logo. Use a PNG format file with high resolution.
 
 
+## Javascript disabled detected:
+- [ ] Except for the error pages, there should be a JS check on the browser. It should not prevent the main site from loading as the non-JS version should still allow the user to experience my site. This is important as I deal with security experts that don't want to enable JS on their browsers.
+- [ ] Use a ```<div>``` block with the ```<noscript>``` tag that is hidden if JS is enabled.
+- [ ] And example for disabled JS detection:
+![Screen Shot 2021-05-15 at 0 20 27](https://user-images.githubusercontent.com/1673222/118345872-7b08b700-b572-11eb-8847-56f298dec7ec.png)
+
+
+
+
 ## index.html:
 - [ ] This landing page will prominently feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Will need mobile version as well.
 - [ ] Should only animate if user changes mouse selection between either side of the screen (work / play).
@@ -160,12 +169,19 @@ Label: RichieBartlett.com
 
 
 ## LEGAL.html:
-- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, etc) for users of my site.
+- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, etc) for users of my site.
 
 
 ## error.html (400, 403, 404, 500, 502, 503):
 - [ ] Need a clever set of error pages complete with cute/cool images to explain what went wrong.
-- [ ] See great examples here: https://github.com/404  &&  https://github.com/HttpErrorPages/HttpErrorPages
+- [ ] See great examples here: 
+- https://github.com/404
+- https://github.com/HttpErrorPages/HttpErrorPages
+- https://www.searchenginejournal.com/404-page-examples/211154/
+
+![Screen Shot 2021-05-15 at 11 42 36](https://user-images.githubusercontent.com/1673222/118345892-af7c7300-b572-11eb-82a5-221afb993cdd.png)
+
+![Screen Shot 2021-05-15 at 11 46 56](https://user-images.githubusercontent.com/1673222/118345991-58c36900-b573-11eb-8b10-4b333b5b12b0.png)
 
 
 
