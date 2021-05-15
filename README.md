@@ -6,7 +6,7 @@ This will be a multi-page site to direct users about me. Must be a *responsive d
 Project is to design 14 pages as defined below. (Half of them are error pages with similar designs...)
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
-Contest is just for the overall design of the site and not the full completion of the project. Candidate should be confortable with Photoshop to make the cutouts/masks of my image to fit the site theme.
+Contest is just for the overall design of the site and not the full completion of the project. Candidate should be confortable with Adobe Photoshop/Illustrator to make the cutouts/masks of my image to fit the site theme.
 
 
 
