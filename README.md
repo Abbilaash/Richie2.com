@@ -124,7 +124,8 @@ I can upload more photos upon designer request.
 Use this text
 ```
 Looks like your Javascript is disabled.
-You can still browse around, but know that JS makes this site more lively. Some features may not work without JS enabled.
+You can still browse around, but know that JS makes this site more lively. 
+* Some features may not work without JS enabled.
 ```
 Feel free to get creative on how/where to display this message.
 
