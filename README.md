@@ -119,9 +119,14 @@ I can upload more photos upon designer request.
 ## Javascript disabled detected:
 - [ ] Except for the error pages, there should be a JS check on the browser. It should not prevent the main site from loading as the non-JS version should still allow the user to experience my site. This is important as I deal with security experts that refuse to enable JS on their browsers.
 - [ ] Use a ```<div>``` block with the ```<noscript>``` tag that is hidden if JS is enabled.
-- [ ] An example for disabled JS detection:
+- [ ] An *example* for disabled JS detection:
 ![Screen Shot 2021-05-15 at 0 20 27](https://user-images.githubusercontent.com/1673222/118345872-7b08b700-b572-11eb-8847-56f298dec7ec.png)
-
+Use this text
+```
+Looks like your Javascript is disabled.
+You can still browse around, but know that JS makes this site more lively. Some features may not work without JS enabled.
+```
+Feel free to get creative on how/where to display this message.
 
 
 
