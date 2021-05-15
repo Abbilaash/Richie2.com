@@ -10,7 +10,7 @@ Contest is just for the overall design of the site and not the full completion o
 
 
 # https://dev.RichieBartlett.com
-I will host the development server on AWS. All you need to do is commit code to GitHub. AWS will automatically push all changes to this DEV branch directly to the web server. Once I approve your changes, they will be pushed to the production website.
+I will host the development server on AWS. All you need to do is commit code to GitHub. AWS will automatically push all changes on this DEV branch directly to the web server. Once I approve your changes, they will be pushed to the production website.
 
 
 ## NAVIGATION
