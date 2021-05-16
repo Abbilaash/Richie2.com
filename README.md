@@ -1,7 +1,7 @@
 # 2021 Design specs
 Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
 
-I tend to favor dark backgrounds. However, need to support both dark/light themes like the smartphones do. IF it's daytime then light theme, else use dark theme... Would be good to have a dark/light theme switch button in the footer section (or in the mobile menu at top).
+I tend to favor dark backgrounds. However, need to support both dark/light themes like the smartphones do. IF it's daytime then light theme, else use dark theme... 
 Background needs to be contrasted on the paragraph sections.  
 This will be a multi-page site to direct users about me. Must be a *responsive design* that looks great on PC, iPad, and iPhones.
 Project is to design 14 pages as defined below. (Half of them are error pages with similar designs...)
@@ -12,6 +12,10 @@ Project is to design 14 pages as defined below. (Half of them are error pages wi
 
 # https://dev.RichieBartlett.com
 I will host the development server on AWS. All you need to do is commit code to GitHub. AWS will automatically push all changes on this DEV branch directly to the web server. Once I approve your changes, they will be pushed to the production website.
+
+## Night/Day Theme
+Would be good to have a dark/light theme switch button in the footer section (or in the mobile menu at top).
+![Screen Shot 2021-05-16 at 16 18 37](https://user-images.githubusercontent.com/1673222/118388981-7f140200-b662-11eb-9680-3524d724cbf7.png)
 
 
 ## NAVIGATION
