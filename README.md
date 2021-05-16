@@ -133,6 +133,7 @@ Feel free to get creative on how/where to display this message.
 
 ## index.html:
 - [ ] This landing page will prominently feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Will need mobile version as well.
+- [ ] Use: ``` Father | Entrepreneur | Solutions Architect ``` instead of "A Solutions Architect and Entrepreneur"
 - [ ] Should only animate if user changes mouse selection between either side of the screen (work / play).
 - [ ] There should be three main sections on the home page of the main body: Work, (my static photo), & Play... 
 If user keeps the mouse in the center, then they see the inital photo. Otherwise moving between work & play will display a different photo for each.
