@@ -115,6 +115,7 @@ I can upload more photos upon designer request.
 - [ ] Font-Awesome is cool to use, but not required.
 - [ ] Each page should not load more than 5 files total. 
       I will look at the network tab in Chrome to see what loads and how long it takes to load.
+      Loading additional files (like switching to light/day theme) is not counted in the inital load. 
 - [ ] Each page must load within 1500 milliseconds. (Assumes hosted on a CDN like AWS CloudFront.)
 - [ ] Please keep the number of download files to a minimum. 100 x 1k files is far slower than a single 100K file. 
 - [ ] I _really like_ this site design: https://linusbohman.se/ . **However, I'm open to other interesting designs.**
