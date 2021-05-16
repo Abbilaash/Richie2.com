@@ -34,7 +34,7 @@ I will host the development server on AWS. All you need to do is commit code to 
 - Projects
   - Personal
   - Work
-- Social (use icons at least 48px x 48px)
+- Social (use icons at least 48px x 48px on PC; but 36px x 36px on iPhone)
   - GitHub
   - LinkedIn
   - Facebook
