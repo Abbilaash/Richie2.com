@@ -45,6 +45,8 @@ I will host the development server on AWS. All you need to do is commit code to 
   - Privacy
   - ToS
   - Cookies
+  - GDPR
+  - Copyrights
 
 ## SITE FOLDER STRUCTURE
 ```
