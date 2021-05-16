@@ -1,7 +1,7 @@
 # 2021 Design specs
 Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
 
-I tend to favor dark backgrounds. However, need to support both dark/light themes like the smartphones do? IF it's daytime then light, else use dark...
+I tend to favor dark backgrounds. However, need to support both dark/light themes like the smartphones do. IF it's daytime then light, else use dark...
 Background needs to be contrasted on the paragraph sections.  
 This will be a multi-page site to direct users about me. Must be a *responsive design* that looks great on PC, iPad, and iPhones.
 Project is to design 14 pages as defined below. (Half of them are error pages with similar designs...)
