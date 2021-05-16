@@ -14,9 +14,9 @@ Project is to design 14 pages as defined below. (Half of them are error pages wi
 I will host the development server on AWS. All you need to do is commit code to GitHub. AWS will automatically push all changes on this DEV branch directly to the web server. Once I approve your changes, they will be pushed to the production website.
 
 ## Night/Day Theme
-Would be good to have a dark/light theme switch button in the footer section (or in the mobile menu at top).
+- Would be good to have a dark/light theme switch button in the footer section (or in the mobile menu at top).
 ![Screen Shot 2021-05-16 at 16 18 37](https://user-images.githubusercontent.com/1673222/118388981-7f140200-b662-11eb-9680-3524d724cbf7.png)
-
+- [ ] Default should be the night (dark) theme.
 
 ## NAVIGATION
 ### Header Menu: 
