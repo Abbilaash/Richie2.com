@@ -106,7 +106,7 @@ I will host the development server on AWS. All you need to do is commit code to 
 
 ``` 
 I will upload my personal images to GitHub for design use. 
-See https://github.com/lorezyra/Richie2.com/tree/Dev/img folder.
+See https://github.com/lorezyra/Richie2.com/tree/Dev/static/img folder.
 
 I can upload more photos upon designer request.
 
