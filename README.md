@@ -177,6 +177,9 @@ Label: RichieBartlett.com
 - [ ] This page will represent my professional past... a CV/resume of sorts, but focused on highlighted companies and projects I've participated/lead.
 - [ ] This page's background should be a little brighter than the index page.
 - [ ] Add section for "We should work together!" with a link to open an email and the basic "mailto:" href prefilled.
+- We could use a timeline of sorts to illustrate interesting projects or companies I've worked at.
+Example:
+![winding timeline](https://user-images.githubusercontent.com/1673222/118673426-f51b9300-b833-11eb-84a3-f7c938c56ba7.jpg)
 
 
 ## play.html:
