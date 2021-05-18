@@ -123,6 +123,7 @@ I can upload more photos upon designer request.
 - [ ] I _really like_ this site design: https://linusbohman.se/ . **However, I'm open to other interesting designs.**
 ![Screen Shot 2021-05-16 at 20 57 14](https://user-images.githubusercontent.com/1673222/118396218-7551c500-b689-11eb-8690-d3bff4724de7.png)
 
+- [ ] Site will be serverless backend. Please don't submit designs that require php/python/nodejs/etc backend. 
 - [ ] Will keep contest open for at least 40 hours. (~ May 28th)
 
 
@@ -170,7 +171,7 @@ Label: RichieBartlett.com
 
 ## about.html:
 - [ ] Basic contents can be directly copied from the existing site @ RichieBartlett.com
-- [ ] There should be a subtle section to sign-up for a newsletter. Users can volunteer their email.
+- [ ] There should be a subtle section for newsletter sign-up. Users can volunteer their email.
 
 
 ## work.html:
