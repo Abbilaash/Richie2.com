@@ -3,7 +3,7 @@ Rebuilding/rebranding personal website: http://RichieBartlett.com/
 
 I tend to favor dark backgrounds. However, need to support both dark/light themes like the smartphones do. IF it's daytime then light theme, else use dark theme... 
 Background needs to be contrasted on the paragraph sections.  
-This will be a multi-page site to direct users about me. Must be a *responsive design* that looks great on PC, iPad (2015~), and iPhones (6s ~).
+This will be a multi-page site to direct users about me. Must be a *responsive design* that looks great on PC (both 2k & 4K screens), iPad (2015~), and iPhones (6s ~).
 Project is to design 14 pages as defined below. (Half of them are error pages with similar designs...)
 
 **Awarded freelancer will likely be hired for ongoing work at market rate for this site.**
