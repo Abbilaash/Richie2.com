@@ -144,7 +144,9 @@ You can still browse around, but know that JS makes this site more lively.
 ## GDPR - cookie notification
 - [ ] Users must see a popup with a button to accept cookies as required by GDPR.
 ![Screen Shot 2021-05-19 at 19 22 51](https://user-images.githubusercontent.com/1673222/118797837-ef778900-b8d7-11eb-8fb5-04784e26486e.png)
-
+```
+By continuing to use the site, you agree to the use of cookies. more information [Accept]
+```
 
 
 ## index.html:
