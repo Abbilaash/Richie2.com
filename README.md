@@ -197,7 +197,7 @@ Example:
 
 
 ## projects.html:
-- [ ] Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). 
+- [ ] Here I will highlight my own personal projects such as Technocracy.Works, LoreZyra.TV, and Linspira (currently in redesign). 
 - [ ] I may also include LEGO projects from [Rebrickable](https://rebrickable.com/users/LoreZyra/profile/).
 
 
