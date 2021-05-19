@@ -141,6 +141,11 @@ You can still browse around, but know that JS makes this site more lively.
 - Feel free to get creative on how/where to display this message.
 
 
+## GDPR - cookie notification
+- [ ] Users must see a popup with a button to accept cookies as required by GDPR.
+![Screen Shot 2021-05-19 at 19 22 51](https://user-images.githubusercontent.com/1673222/118797837-ef778900-b8d7-11eb-8fb5-04784e26486e.png)
+
+
 
 ## index.html:
 - [ ] This landing page will prominently feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Will need mobile version as well.
