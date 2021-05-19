@@ -141,6 +141,14 @@ You can still browse around, but know that JS makes this site more lively.
 - Feel free to get creative on how/where to display this message.
 
 
+## GDPR - cookie notification
+- [ ] Users must see a popup with a button to accept cookies as required by GDPR.
+![Screen Shot 2021-05-19 at 19 22 51](https://user-images.githubusercontent.com/1673222/118797837-ef778900-b8d7-11eb-8fb5-04784e26486e.png)
+```
+By continuing to use the site, you agree to the use of cookies. more information [Accept]
+```
+- The _more information_ link should point to LEGAL.html#cookies
+
 
 ## index.html:
 - [ ] This landing page will prominently feature my photo covering a good portion of the viewable space (on PC & iPad) with animations that invite the user to select work or play. Will need mobile version as well.
@@ -189,12 +197,14 @@ Example:
 
 
 ## projects.html:
-- [ ] Here I will highlight my own personal projects such as LoreZyra.TV and Linspira (currently in redesign). 
+- [ ] Here I will highlight my own personal projects such as Technocracy.Works, LoreZyra.TV, and Linspira (currently in redesign). 
 - [ ] I may also include LEGO projects from [Rebrickable](https://rebrickable.com/users/LoreZyra/profile/).
 
 
 ## LEGAL.html:
-- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, etc) for users of my site.
+- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, blog comments) for users of my site.
+- [ ] There should be a ToC (table of contents) that should float for better UX.
+- [ ] This will be a single page using anchors for the links.
 
 
 ## error.html (400, 403, 404, 500, 502, 503):
