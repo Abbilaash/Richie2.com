@@ -202,7 +202,9 @@ Example:
 
 
 ## LEGAL.html:
-- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, etc) for users of my site.
+- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, blog comments) for users of my site.
+- [ ] There should be a ToC (table of contents) that should float for better UX.
+- [ ] This will be a single page using anchors for the links.
 
 
 ## error.html (400, 403, 404, 500, 502, 503):
