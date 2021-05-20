@@ -17,6 +17,10 @@ I will host the development server on AWS. All you need to do is commit code to 
 - Would be good to have a dark/light theme switch button in the footer section (or in the mobile menu at top).
 ![Screen Shot 2021-05-16 at 16 18 37](https://user-images.githubusercontent.com/1673222/118388981-7f140200-b662-11eb-9680-3524d724cbf7.png)
 - [ ] Default should be the night (dark) theme.
+- [ ] Recommend using the following icons for the theme switch:
+- Day: https://thenounproject.com/search/?q=sun&i=2327851
+- Night: https://thenounproject.com/search/?q=night&i=3144275
+
 
 ## NAVIGATION
 ### Header Menu: 
