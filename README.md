@@ -208,10 +208,9 @@ Example:
 - [ ] I may also include LEGO projects from [Rebrickable](https://rebrickable.com/users/LoreZyra/profile/).
 
 
-## LEGAL.html:
-- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, blog comments) for users of my site.
+## LEGAL folder files:
+- [ ] Here I will list all the standard disclaimers (copyrights, privacy, ToS, cookies, GDPR, CCPA, blog comments) for users of my site.
 - [ ] There should be a ToC (table of contents) that should float for better UX.
-- [ ] This will be a single page using anchors for the links.
 
 
 ## error.html (400, 403, 404, 500, 502, 503):
