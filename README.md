@@ -67,6 +67,14 @@ I will host the development server on AWS. All you need to do is commit code to 
 |       +-- dev.framework.js
 |       +-- main.prod.js
 |       +-- custom.js
++-- LEGAL
+|   +-- acceptable_use.html
+|   +-- cookies.html
+|   +-- CCPA.html
+|   +-- disclaimer.html
+|   +-- DMCA.html
+|   +-- privacy.html
+|   +-- terms.html
 +-- _config.yml
 +-- 400.html
 +-- 403.html
@@ -78,7 +86,6 @@ I will host the development server on AWS. All you need to do is commit code to 
 +-- about.html
 +-- error.html
 +-- favicon.ico
-+-- LEGAL.html
 +-- play.html
 +-- projects.html
 +-- robots.txt
