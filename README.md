@@ -229,6 +229,7 @@ Example:
 - https://github.com/404
 - https://github.com/HttpErrorPages/HttpErrorPages
 - https://www.searchenginejournal.com/404-page-examples/211154/
+- https://storyset.com/404-error
 
 ![Screen Shot 2021-05-15 at 11 42 36](https://user-images.githubusercontent.com/1673222/118345892-af7c7300-b572-11eb-82a5-221afb993cdd.png)
 
