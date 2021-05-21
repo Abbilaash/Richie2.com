@@ -138,6 +138,8 @@ I can upload more photos upon designer request.
 - [ ] Site will be serverless backend. Please don't submit designs that require php/python/nodejs/etc backend. 
 - [ ] Recommended color palette: (However, I'm open to suggestions.)
 ![Screen Shot 2021-05-21 at 12 58 47](https://user-images.githubusercontent.com/1673222/119080107-717cc480-ba34-11eb-88a4-da13c1e781b7.png)
+- [ ] I also like these colors a lot:
+![image](https://user-images.githubusercontent.com/1673222/119081969-14830d80-ba38-11eb-8a95-880e6d9ff53d.png)
 
 - [ ] Will keep contest open for at least 40 hours. (~ May 28th)
 
