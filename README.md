@@ -1,5 +1,5 @@
 # 2021 Design specs
-Rebuilding/rebranding personal website: http://RichieBartlett.com/ 
+Rebuilding & rebranding personal website: http://RichieBartlett.com/ 
 
 I tend to favor dark backgrounds. However, need to support both dark/light themes like the smartphones do. IF it's daytime then light theme, else use dark theme... 
 Background needs to be contrasted on the paragraph sections.  
