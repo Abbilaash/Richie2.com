@@ -164,7 +164,7 @@ You can still browse around, but know that JS makes this site more lively.
 ```
 By continuing to use the site, you agree to the use of cookies. more information [Accept]
 ```
-- The _more information_ link should point to LEGAL.html#cookies
+- The _more information_ link should point to LEGAL/cookies.html
 
 
 ## index.html:
