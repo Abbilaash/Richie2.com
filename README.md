@@ -78,6 +78,7 @@ I will host the development server on AWS. All you need to do is commit code to 
 |   +-- CCPA.html
 |   +-- disclaimer.html
 |   +-- DMCA.html
+|   +-- GDPR.html
 |   +-- privacy.html
 |   +-- terms.html
 +-- _config.yml
