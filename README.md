@@ -88,6 +88,7 @@ I will host the development server on AWS. All you need to do is commit code to 
 +-- 500.html
 +-- 502.html
 +-- 503.html
++-- 504.html
 +-- index.html
 +-- about.html
 +-- error.html
@@ -224,7 +225,7 @@ Example:
 - [ ] There should be a ToC (table of contents) that should float for better UX.
 
 
-## error.html (400, 403, 404, 500, 502, 503):
+## error.html (400, 403, 404, 500, 502, 503, 504):
 - [ ] Need a clever set of error pages complete with cute/cool images to explain what went wrong.
 - [ ] See great examples here: 
 - https://github.com/404
