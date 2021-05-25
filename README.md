@@ -152,6 +152,9 @@ I can upload more photos upon designer request.
 - [ ] An *example* for disabled JS detection:
 ![Screen Shot 2021-05-15 at 0 20 27](https://user-images.githubusercontent.com/1673222/118345872-7b08b700-b572-11eb-8847-56f298dec7ec.png)
 Use this text
+- [ ] Another **good** example:
+![Screen Shot 2021-05-25 at 22 06 34](https://user-images.githubusercontent.com/1673222/119503193-a88d0600-bda5-11eb-81b8-192a5c609042.png)
+
 ```
 Looks like your Javascript is disabled.
 You can still browse around, but know that JS makes this site more lively. 
